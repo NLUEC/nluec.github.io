@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Workshop on Natural Language Understanding for Enterprise Corpora"
+title                    : "Workshop on NLU for Enterprise Corpora"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "NLUEC"
