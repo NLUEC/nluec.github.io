@@ -8,7 +8,7 @@ header:
 excerpt: "<br/>Organizing Committee<br/>"
 ---
 <h3>Gerard de Melo</h3>
-Gerard is an Assistant Professor, leading the Deep Data Labe, at Department of Computer Science, Rutgers University. He developed core Natural Language Processing, Data Mining, and Machine Learning methodologies. Gerard received his Ph.D. from Saarland University, Germany. He worked as a post-doctoral research scholar at UC Berkeley and Assistant Professor at Tsinghua University, China prior to joining Rutgers. He has published more than 120 peer-reviewed papers and received multiple best paper awards. He served as area chairs and senior program committee members for ACL, COLING, EMNLP, NAACL, WWW, etc. He also had organized five workshops in various conferences. 
+Gerard is an Assistant Professor, leading the Deep Data Lab, at Department of Computer Science, Rutgers University. He developed core Natural Language Processing, Data Mining, and Machine Learning methodologies. Gerard received his Ph.D. from Saarland University, Germany. He worked as a post-doctoral research scholar at UC Berkeley and Assistant Professor at Tsinghua University, China prior to joining Rutgers. He has published more than 120 peer-reviewed papers and received multiple best paper awards. He served as area chairs and senior program committee members for ACL, COLING, EMNLP, NAACL, WWW, etc. He also had organized five workshops in various conferences. 
 
 <h3>Xiaomo Liu</h3>
 
