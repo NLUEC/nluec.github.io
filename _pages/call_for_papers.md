@@ -24,7 +24,7 @@ We invite submissions of original contributions on theories and applications of 
 We encourage submissions to relate their research to common challenges and opportunities in the business domain, such as:
 - How their research contributes to business strategy, operations, or decision making;
 - How they tackle common problems that arise in the business domain, including but not limited to:
-* Low signal to noise ratio: How they filter noisy data, boiler-plate language and other low-signal content;
-* Scarcity of gold labels: How they generate noisy, distant or synthetic labels, or use unsupervised, semi-supervised or transfer learning to tackle this problem;
-- Task ambiguity: How they design models that learn fuzzy, unclear or evolving tasks;
-- High performance expectations: How they optimize performance in tackling the precision and recall tradeoff. 
+    * Low signal to noise ratio: How they filter noisy data, boiler-plate language and other low-signal content;
+    * Scarcity of gold labels: How they generate noisy, distant or synthetic labels, or use unsupervised, semi-supervised or transfer learning to tackle this problem;
+    * Task ambiguity: How they design models that learn fuzzy, unclear or evolving tasks;
+    * High performance expectations: How they optimize performance in tackling the precision and recall tradeoff. 
