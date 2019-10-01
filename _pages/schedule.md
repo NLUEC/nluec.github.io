@@ -9,4 +9,9 @@ excerpt: "<br/>Schedule<br/>"
 ---
 
 <h2>Schedule</h2>
-More details to follow.
+<h3>Invited Speakers:<h3>
+- Catherine Havasi (Luminoso)
+- Fabio Petroni (Facebook AI Research)
+- Sebastian Ruder (DeepMind)
+
+
